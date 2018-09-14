@@ -1,4 +1,4 @@
-# MULTILAYER ALTERNATE LURKER-CONTRIBUTOR RANKING (mlALCR)
+# Multilayer Alternate Lurker-Contributor Ranking (mlALCR)
 
 
 ![Example multilayer social network, which illustrates eighteen users located over three layer networks.](https://github.com/andreatagarelli/mlalcr/blob/master/ml_network.png "Multilayer Network")
